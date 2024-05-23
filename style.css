@@ -119,6 +119,10 @@ button:disabled{
 }
 
 @media (max-width: 600px){
+    body{
+        height: 90vh;
+    }
+    
     .main{
         width: 90%;
     }
